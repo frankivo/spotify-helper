@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Next", "Next\Next.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyHelper", "SpotifyHelper\SpotifyHelper.csproj", "{73B2FEF6-0A5B-411F-B196-0882FD347572}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pause", "Pause\Pause.csproj", "{800CE3C9-967C-4D5C-9CA4-CB6000EF4B0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{73B2FEF6-0A5B-411F-B196-0882FD347572}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73B2FEF6-0A5B-411F-B196-0882FD347572}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73B2FEF6-0A5B-411F-B196-0882FD347572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{800CE3C9-967C-4D5C-9CA4-CB6000EF4B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{800CE3C9-967C-4D5C-9CA4-CB6000EF4B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{800CE3C9-967C-4D5C-9CA4-CB6000EF4B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{800CE3C9-967C-4D5C-9CA4-CB6000EF4B0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

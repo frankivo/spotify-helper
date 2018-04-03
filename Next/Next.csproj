@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{21A5E95A-5C91-4E4A-98F5-3CA03685DBBD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SpotifyHelper</RootNamespace>
-    <AssemblyName>SpotifyHelper</AssemblyName>
+    <RootNamespace>Next</RootNamespace>
+    <AssemblyName>Next</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
